@@ -34,4 +34,4 @@ Welcome to **Everyday with Isa**, a stylish and modern fashion blog project buil
 
 ---
 
-Made with ❤️ for TechnoCollabs.
+Made with ❤️ by waris for TechnoCollabs.
